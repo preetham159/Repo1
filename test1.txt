@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 063E-F51B
+
+ Directory of C:\Users\dell\Desktop\MyProject
+
+02-09-2020  15:53    <DIR>          .
+02-09-2020  15:53    <DIR>          ..
+02-09-2020  15:53                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  73,968,099,328 bytes free
